@@ -1,1 +1,2 @@
-print "one"
+def printword():
+    print "one"
